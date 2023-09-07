@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm sateeesh Kumbhakar</h1>
-<h3 align="center">A passionate  full stack developmwent</h3>
+<h3 align="center">A passionate  full stack development</h3>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D336172351220591&tbnid=W5zjySZ5-LpnlM&vet=10CBgQxiAoCmoXChMI8PqH74yZgQMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fweblerning%2F&docid=uO8QqgIM9ZRe3M&w=2048&h=1365&itg=1&q=passionate%20about%20full%20stack%20development&ved=0CBgQxiAoCmoXChMI8PqH74yZgQMVAAAAAB0AAAAAEAc" alt="Girl in a jacket" width="400" >
 
 - 🌱 I’m currently learning **Fullstack development, SpringBoot,Angular**
 
