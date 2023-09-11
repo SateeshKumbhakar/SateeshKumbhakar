@@ -3,6 +3,7 @@
 
 
 - 🌱 I’m currently learning **Fullstack development, SpringBoot,Angular**
+- and always ready to build dynamic personality,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
