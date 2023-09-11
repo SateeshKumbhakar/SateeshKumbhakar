@@ -2,8 +2,8 @@
 <h3 align="center">A passionate  full stack development</h3>
 
 
-- 🌱 I’m currently learning **Fullstack development, SpringBoot,Angular**
-- and always ready to build dynamic personality,
+-  I’m currently learning **Fullstack development, SpringBoot, RestAPI, Microservices, Angular interested in  Cloud learning**
+-  Always ready to take Responsibility,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
