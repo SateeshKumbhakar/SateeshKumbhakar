@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sateeesh Kumbhakar</h1>
-<h3 align="center">A passionate  full stack development</h3>
+<h3 align="center"> Full Stack Development</h3>
 
 
 -  I’m currently learning **Fullstack development, SpringBoot, RestAPI, Microservices, Angular interested in  Cloud learning**
